@@ -1,0 +1,1 @@
+# shopify-discount-tool
